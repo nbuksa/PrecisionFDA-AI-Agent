@@ -39,8 +39,8 @@ npm install
 
 This will download all required packages.
 
-#### Step 3: Set Up Your API Key and Assistant ID (Optional)
-The application includes an OpenAI API key in the frontend code. However, if you want to implement your own model, change the API key and Assistant ID.
+#### Step 3: Set Up Your API Key and Assistant ID 
+The application does not include an OpenAI API key in the frontend code.  Change the API key and Assistant ID section.
 
 - Obtain an API key from OpenAI.
 - directly modify the API key inside the JavaScript file handling API requests.
