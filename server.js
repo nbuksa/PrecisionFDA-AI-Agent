@@ -572,8 +572,8 @@ const loadExternalResource = (type, url) => {
  // -------------------------------------------------------------------------------------
  const createThreadWithMessage = async (userInput) => {
   const apiKey =
-    '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';
-  const assistantId = 'asst_GmIJ90A7VMNI5QcSZHAikCDa';
+    '#####';   //Replace with your API key
+  const assistantId = '######';  //Replace with your Assistant ID
   const baseUrl = `https://api.openai.com/v1/`;
  
   try {
