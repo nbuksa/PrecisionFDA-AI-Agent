@@ -1,0 +1,18 @@
+{
+    "name": "precisionfda-ai-agent",
+    "version": "1.4.2",
+    "description": "A chatbot application to help users navigate complex regulatory content.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "@fortawesome/fontawesome-free": "^6.2.1",
+      "cors": "2.8.5",
+      "body-parser": "1.20.2"
+    },
+
+    "author": "Shakil Ahmed",
+    "license": "UNLICENSED"
+  }
+  
